@@ -4,7 +4,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Cool+Stuff;Learning+ML+%26+Security;Future+Engineer;Always+Improving&center=true&width=500&height=45">
 </p>
-# 💫 About Me:
+
+
+#💫 About Me:
 Hi 👋, I'm Pijush<br><br>🎓 Computer Science Student<br>🤖 AI & Robotics Enthusiast<br>💻 Python Developer | Problem Solver | Tech Explorer
 
 
